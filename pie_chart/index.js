@@ -1,6 +1,6 @@
 const width = 450,
-const height = 450,
-const margin = 40;
+  height = 450,
+  margin = 40;
 
 const radius = Math.min(width, height) / 2 - margin;
 

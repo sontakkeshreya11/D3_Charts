@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "ResourceName": "Sagar",
+    "TotalWorkingDays": 208,
+    "PersonalLeaves": 23,
+    "Holidays": 6,
+    "DeclaredHolidyas": 0,
+    "NoticePeriod": "No",
+    "TotalNumberOfLeaves": 6,
+    "Billing": "NA"
+  }
+]
